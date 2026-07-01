@@ -83,3 +83,14 @@ button {
     font-weight: bold;
     color: #D4A373;
 }
+footer {
+    background-color: #5C4033;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-top: 40px;
+}
+
+footer p {
+    margin: 8px 0;
+}
